@@ -1,4 +1,7 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=plazzy99&color=blue)
+
+<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
 - 🌱 I’m currently learning Android App Development
 - 💬 Ask me about Android and tech tools
