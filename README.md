@@ -10,5 +10,4 @@
 - ⚡ Fun fact: When I'm not coding, you can find me active on twitter
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 😄 Pronouns: -->
-
-![](https://github-readme-stats.vercel.app/api?username=plazzy99&show_icons=true&hide_border=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=plazzy99&show_icons=true&hide_border=true" />
