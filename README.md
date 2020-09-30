@@ -16,9 +16,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/ChugunovRoman/figma-linux/master/resources/icons/128x128.png" alt="java" width="60" height="60"/> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=plazzy99&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=plazzy99&show_icons=true&hide_border=false" />
 
-## Connect with me  
+<h2 align="center" >Connect with me</h2>
 <div align="center">
 <a href="https://github.com/plazzy99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
