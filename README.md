@@ -1,4 +1,4 @@
-<h1 align="center">I'm Vatsal Kesarwani</h1>
+<h1 align="center">I'm Vatsal Kesarwani😄</h1>
 
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
@@ -31,6 +31,8 @@
 </a>
 <a href="https://instagram.com/vatsal_kesarwani" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="mailto:vatsalkesarwani12@gmail.com?hl=en" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=instagram style="margin-bottom: 5px;" />
 </a> 
 </div>  
   
