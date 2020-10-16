@@ -2,13 +2,14 @@
 
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
-- 🌱 I’m currently mentoring [Plasma Donor App](https://github.com/DSC-JSS-NOIDA/Plasma-Donor-App)
+- 🌱 I’m currently mentoring **Plasma Donor App**
 - 💬 Ask me about **Android Dev & Open Source**
-- 👨‍💻 All of my projects are available at https://github.com/plazzy99
+- 👨‍💻 All of my projects are available **here**
 - 📫 How to reach me: **vatsalkesarwani12@gmail.com**
-- 👯 I’m looking to collaborate on any Android Projects
-- 🔭 I’m currently working to learn advanced android skills
-- ⚡ Fun fact: Coding over songs else find me active on social apps.
+- 👯 I’m looking to collaborate on any **Android Projects**
+- 🤔 I'm looking for help to improve my **competitive programming skills**
+- 🔭 I’m currently working to learn **advanced android skills**
+- ⚡ Fun fact: Coding over songs else find me active on social media.
 
 ## Tech Stack
 <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="60" height="60"/>
