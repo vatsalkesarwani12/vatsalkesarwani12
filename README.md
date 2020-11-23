@@ -5,7 +5,7 @@
 - 🌱 I’m currently mentoring **Simplify Reports**
 - 💬 Ask me about **Android Dev & Open Source**
 - 👨‍💻 All of my projects are available **here**
-- 📫 How to reach me: **iamvatsal12@gmail.com**
+- 📫 How to reach me: **vatsalkesarwani12@gmail.com**
 - 👯 I’m looking to collaborate on any **Android Projects**
 - 🤔 I'm looking for help to improve my **android ui animation**
 - 🔭 I’m currently working to learn **advanced android skills**
@@ -34,7 +34,7 @@
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=instagram style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.linkedin.com/in/vatsal-kesarwani-4a3858171/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Support me by Endrosing on Linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
   
