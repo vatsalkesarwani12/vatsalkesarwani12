@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
-- 🌱 I’m currently mentoring **Simplify Reports & Heal-O-Chat**
+- 🌱 I’m currently mentoring **VendorRelief & Heal-O-Chat**
 - 👨‍💻 Currently working on **BeProductive**
 - 💬 Ask me about **Android Dev & Open Source**
 - 👨‍💻 All of my projects are available **here**
