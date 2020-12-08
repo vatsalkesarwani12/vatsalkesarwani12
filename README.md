@@ -23,7 +23,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="djnago" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=plazzy99&count_private=true&hide_border=true&show_icons=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=plazzy99&count_private=true&hide_border=false&show_icons=true&theme=dark" />
 
 <h2 align="center" >Connect with me</h2>
 <div align="center">
