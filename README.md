@@ -1,6 +1,6 @@
 <h1 align="center">I'm Vatsal Kesarwani😄</h1>
 
-<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
 
 - 🌱 I’m currently mentoring **VendorRelief & Heal-O-Chat**
 - 👨‍💻 Currently working on **BeProductive**
