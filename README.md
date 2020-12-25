@@ -40,6 +40,10 @@
 <a href="https://stackoverflow.com/users/12203379/" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
+</a>
+<a href="https://dribbble.com/plazzy99" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
 <a href="https://discord.gg/DswQDgyF8a" target="_blank">
 <img src=https://img.shields.io/badge/chat-on%20discord-brightgreen alt=Discord style="margin-bottom: 5px;" />
 </a>
