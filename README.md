@@ -17,11 +17,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="figma" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="c-plus-plus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="djnago" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/django.svg" alt="djnago" width="40" height="40"/> 
+ <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/></p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=plazzy99&count_private=true&hide_border=false&show_icons=true&theme=dark" />
 
