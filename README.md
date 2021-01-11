@@ -2,13 +2,13 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
 
-- 🌱 I’m currently mentoring **VendorRelief & Heal-O-Chat**
+- 🌱 I’m currently mentoring **codezonediitj/pydatastructs**
 - 👨‍💻 Currently working on **BeProductive**
-- 💬 Ask me about **Android Dev & Open Source**
+- 💬 Ask me about **Android Dev & Open Source & UI Design**
 - 👨‍💻 All of my projects are available **here**
 - 📫 How to reach me: **vatsalkesarwani12@gmail.com**
 - 👯 I’m looking to collaborate on any **Android Projects**
-- 🤔 I'm looking for help to improve my **android ui animation**
+- 🤔 I'm looking for help to improve my **android service and architectural knowledge**
 - 🔭 I’m currently working to learn **advanced android skills**
 - ⚡ Fun fact: !(Coding over tea😅).
 
