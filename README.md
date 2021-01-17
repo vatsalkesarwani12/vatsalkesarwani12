@@ -48,4 +48,7 @@
 <img src=https://img.shields.io/badge/chat-on%20discord-brightgreen alt=Discord style="margin-bottom: 5px;" />
 </a>
 </div>
+
+
+## Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=plazzy99" /> </p>
