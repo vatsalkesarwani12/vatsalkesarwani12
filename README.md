@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
 
-- 🌱 I’m currently mentoring **codezonediitj/pydatastructs**
+- 🌱 I’m currently establishing **Algo Phantom**
 - 👨‍💻 Currently working on **BeProductive**
 - 💬 Ask me about **Android Dev & Open Source & UI Design**
 - 👨‍💻 All of my projects are available **here**
