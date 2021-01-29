@@ -2,6 +2,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
 
+- 22yo' • CS Undergrad
+- Android App Developer, UI/UX Designer
+- Android Lead @DSCJSSATEN
+- Mentor @bashwomancomm
+- Competitive Programming Lead @CodechefJSSATEN
 - 🌱 I’m currently establishing **Algo Phantom**
 - 👨‍💻 Currently working on **BeProductive**
 - 💬 Ask me about **Android Dev & Open Source & UI Design**
@@ -9,7 +14,7 @@
 - 📫 How to reach me: **vatsalkesarwani12@gmail.com**
 - 👯 I’m looking to collaborate on any **Android Projects**
 - 🤔 I'm looking for help to improve my **android service and architectural knowledge**
-- 🔭 I’m currently working to learn **advanced android skills**
+- 🔭 I currently need help to learn advanced android skill & automation bot building.
 - ⚡ Fun fact: !(Coding over tea😅).
 
 ## Tech Stack
