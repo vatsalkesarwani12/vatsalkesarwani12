@@ -2,7 +2,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
 
-- 22yo' • CS Undergrad
+- 22 years old
+- CS Undergrad
 - Android App Developer, UI/UX Designer
 - Android Lead @DSCJSSATEN
 - Mentor @bashwomancomm
