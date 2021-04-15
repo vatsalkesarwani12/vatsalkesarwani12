@@ -1,6 +1,7 @@
 <img align="center" src="https://github.com/plazzy99/plazzy99/blob/master/header.png" />
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
+<img src="https://komarev.com/ghpvc/?username=plazzy99&style=plastic"/>
 
 - 22 years old
 - CS Undergrad
