@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/plazzy99/plazzy99/blob/master/header.png" />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400px" />
+<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <img src="https://komarev.com/ghpvc/?username=plazzy99&style=plastic"/>
 
 - 22 years old
@@ -30,7 +30,7 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/django.svg" alt="djnago" width="40" height="40"/> 
  <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=plazzy99&count_private=true&hide_border=false&show_icons=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=plazzy99&count_private=true&hide_border=false&show_icons=true" />
 
 <h2 align="center" >Connect with me</h2>
 <div align="center">
