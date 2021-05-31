@@ -5,8 +5,7 @@
  </a>
 <img src="https://komarev.com/ghpvc/?username=plazzy99&style=plastic"/>
 
-- 📢 I'm 22 year old and currently pursuing 3rd year Bachelor of Technical Education.
-- 🏫 I'm a Computer Science student from JSS Academy of Technical Education, Noida.
+- 🏫 I'm a 3rd year Computer Science student from JSS Academy of Technical Education, Noida.
 - 💻 I'm a Android Developer and a Competitive Programmer in C++ and also know about UI/UX designing.
 - 🥇 I'm Android Lead @DSCJSSATEN and Mentor @bashwomancomm
 - 🏅 I'm Competitive Programming Lead @CodechefJSSATEN
