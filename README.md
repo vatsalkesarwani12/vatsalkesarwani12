@@ -5,19 +5,18 @@
  </a>
 <img src="https://komarev.com/ghpvc/?username=plazzy99&style=plastic"/>
 
-- 22 years old
-- CS Undergrad
-- Android App Developer, UI/UX Designer
-- Android Lead @DSCJSSATEN
-- Mentor @bashwomancomm
-- Competitive Programming Lead @CodechefJSSATEN
+- 📢 I'm 22 year old and currently pursuing 3rd year Bachelor of Technical Education.
+- 🏫 I'm a Computer Science student from JSS Academy of Technical Education, Noida.
+- 💻 I'm a Android Developer and a Competitive Programmer in C++ and also know about UI/UX designing.
+- 🥇 I'm Android Lead @DSCJSSATEN and Mentor @bashwomancomm
+- 🏅 I'm Competitive Programming Lead @CodechefJSSATEN
 - 🌱 I’m currently establishing **Algo Phantom**
-- 👨‍💻 Currently working on **BeProductive**
+- 👨‍💻 Currently working on **Android Techs in Kotlin**
 - 💬 Ask me about **Android Dev & Open Source & UI Design**
 - 👨‍💻 All of my projects are available **here**
 - 📫 How to reach me: **vatsalkesarwani12@gmail.com**
 - 👯 I’m looking to collaborate on any **Android Projects**
-- 🤔 I'm looking for help to improve my **android service and architectural knowledge**
+- 🤔 I'm looking for help to improve my **Competitive programming and advanced Android Skills**
 - 🔭 I currently need help to learn advanced android skill & automation bot building.
 - ⚡ Fun fact: !(Coding over tea😅).
 
