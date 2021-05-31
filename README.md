@@ -1,6 +1,8 @@
 <img align="center" src="https://github.com/plazzy99/plazzy99/blob/master/header.png" />
 
-<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<a href="https://stackoverflow.com/users/12203379/vatsal-kesarwani?tab=profile">
+<img align="right" alt="Vatsal Kesarwani's StackOverflow" src="https://github-readme-stackoverflow.vercel.app/?userID=12203379"  height="350px" width="250px" />
+ </a>
 <img src="https://komarev.com/ghpvc/?username=plazzy99&style=plastic"/>
 
 - 22 years old
