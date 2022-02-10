@@ -5,18 +5,18 @@
  </a>
 <img src="https://komarev.com/ghpvc/?username=plazzy99&style=plastic"/>
 
-- 🏫 I'm a 3rd year Computer Science student from JSS Academy of Technical Education, Noida.
-- 💻 I'm a Android Developer and a Competitive Programmer in C++ and also know about UI/UX designing.
-- 🥇 I'm Android Lead @DSCJSSATEN and Mentor @bashwomancomm
+- 🏫 I'm a 4th year Computer Science student from JSS Academy of Technical Education, Noida.
+- 💻 I'm a Android Developer and a Competitive Programmer.
+- 🥇 I'm Android Lead @DSCJSSATEN
 - 🏅 I'm Competitive Programming Lead @CodechefJSSATEN
-- 🌱 I’m currently establishing **Algo Phantom**
+- 🌱 I’m currently working in **Byju's Exam Prep**
 - 👨‍💻 Currently working on **Android Techs in Kotlin**
 - 💬 Ask me about **Android Dev & Open Source & UI Design**
 - 👨‍💻 All of my projects are available **here**
 - 📫 How to reach me: **vatsalkesarwani12@gmail.com**
 - 👯 I’m looking to collaborate on any **Android Projects**
 - 🤔 I'm looking for help to improve my **Competitive programming and advanced Android Skills**
-- 🔭 I currently need help to learn advanced android skill & automation bot building.
+- 🔭 I currently need help to learn advanced android skill.
 - ⚡ Fun fact: !(Coding over tea😅).
 
 ## Tech Stack
