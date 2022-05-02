@@ -7,9 +7,9 @@
 
 - 🏫 I'm a 4th year Computer Science student from JSS Academy of Technical Education, Noida.
 - 💻 I'm a Android Developer and a Competitive Programmer.
-- 🥇 I'm Android Lead @DSCJSSATEN
-- 🏅 I'm Competitive Programming Lead @CodechefJSSATEN
-- 🌱 I’m currently working in **Byju's Exam Prep**
+- 🥇 I'm Android Lead [**DSCJSSATEN**](https://gdsc.community.dev/jss-academy-of-technical-education-noida/)
+- 🏅 I was the Competitive Programming Lead [**CodechefJSSATEN**](https://codechef-jssaten.herokuapp.com/)
+- 🌱 I’m currently working in [**Byju's Exam Prep**](https://byjusexamprep.com/)
 - 👨‍💻 Currently working on **Android Techs in Kotlin**
 - 💬 Ask me about **Android Dev & Open Source & UI Design**
 - 👨‍💻 All of my projects are available **here**
