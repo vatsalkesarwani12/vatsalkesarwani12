@@ -5,18 +5,14 @@
  </a>
 <img src="https://komarev.com/ghpvc/?username=plazzy99&style=plastic"/>
 
-- 🏫 I'm a 4th year Computer Science student from JSS Academy of Technical Education, Noida.
-- 💻 I'm a Android Developer and a Competitive Programmer.
-- 🥇 I'm Android Lead [**DSCJSSATEN**](https://gdsc.community.dev/jss-academy-of-technical-education-noida/)
+- 🏫 I'm a Computer Science undergrad from JSS Academy of Technical Education, Noida.
+- 💻 I'm a Android Developer.
+- 🌱  I'm Sotftware Engineer Developer at Blinkit.
 - 🏅 I was the Competitive Programming Lead [**CodechefJSSATEN**](https://codechef-jssaten.herokuapp.com/)
-- 🌱 I’m currently working in [**Byju's Exam Prep**](https://byjusexamprep.com/)
-- 👨‍💻 Currently working on **Android Techs in Kotlin**
+- 🥇 I was member of Developer Student Club.
 - 💬 Ask me about **Android Dev & Open Source & UI Design**
 - 👨‍💻 All of my projects are available **here**
 - 📫 How to reach me: **vatsalkesarwani12@gmail.com**
-- 👯 I’m looking to collaborate on any **Android Projects**
-- 🤔 I'm looking for help to improve my **Competitive programming and advanced Android Skills**
-- 🔭 I currently need help to learn advanced android skill.
 - ⚡ Fun fact: !(Coding over tea😅).
 
 ## Tech Stack
@@ -31,7 +27,7 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/django.svg" alt="djnago" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=plazzy99&count_private=true&hide_border=false&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vatsalkesarwani12&count_private=true&hide_border=false&show_icons=true" />
 
 <h2 align="center" >Connect with me</h2>
 <div align="center">
